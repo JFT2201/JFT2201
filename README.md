@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JFT2201
+- 👀 I’m interested in Games, Anime, D&D
+- 🌱 I’m currently learning C#
